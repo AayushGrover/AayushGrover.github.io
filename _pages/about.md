@@ -7,6 +7,8 @@ author_profile: true
 author: "Aayush Grover"
 redirect_from:
   - /
+  - /home.html
+  - /default.html
 
 ---
 
