@@ -1,10 +1,6 @@
 ---
 permalink: /publications/
 title: "Publications"
-modified: 2020/06/30
-comments: false
-author_profile: true
-author: "Aayush Grover"
 
 ---
 
