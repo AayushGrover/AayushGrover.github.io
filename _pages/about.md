@@ -4,6 +4,7 @@ title: "Aayush Grover"
 
 ---
 
+# About Me
 
 I am an integrated master student at [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/). Integrated master program is a 5-year program that offers the undergrad as well as the postgrad degree at the end of the program. I will be graduating in 2021 with a B.Tech in Computer Science Engineering and an M.Tech in Data Science. I started my undergrad in 2016 and have been a member of the [Dean's List](https://www.iiitb.ac.in/deans-list) ever since.
 
