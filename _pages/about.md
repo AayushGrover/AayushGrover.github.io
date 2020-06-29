@@ -1,10 +1,13 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 author: "Aayush Grover"
 modified: 2020/06/29
 comments: false
 author_profile: true
+redirect_from:
+  - /author/
+  - /author.html
 ---
 
 <p align="center">
