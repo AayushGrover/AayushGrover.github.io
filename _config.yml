@@ -102,7 +102,6 @@ author:
   bio              : "Integrated master student at International Institute of Information Technology Bangalore, Data Science, Python, Biology, and Football"
   location         : "Bangalore, India"
   linkedin         : "https://www.linkedin.com/in/aayush-g-000113117/"
-  researchgate     : "https://www.researchgate.net/profile/Aayush_Grover"
   
   links:
     - label: "Email"
@@ -277,7 +276,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: page
+      type: posts
     values:
       layout: single
       author_profile: true
