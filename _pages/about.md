@@ -1,8 +1,6 @@
 ---
-permalink: /about/
-title: "About"
-redirect_from: 
-  - /
+permalink: /
+title: "Aayush Grover"
 
 ---
 
