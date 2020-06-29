@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 modified: 2020/06/29
 comments: false
