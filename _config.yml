@@ -49,8 +49,8 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+#   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -102,19 +102,20 @@ author:
   bio              : "Integrated master student at International Institute of Information Technology Bangalore, Data Science, Python, Biology, and Football"
   location         : "Bangalore, India"
   linkedin         : "https://www.linkedin.com/in/aayush-g-000113117/"
+  researchgate     : "https://www.researchgate.net/profile/Aayush_Grover"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aayush.grover@iiitb.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://aayushgrover.github.io/"
+#       url: "https://aayushgrover.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AayushGrover8"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/aayush.grover.71"
+#       url: "https://www.facebook.com/aayush.grover.71"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AayushGrover"
