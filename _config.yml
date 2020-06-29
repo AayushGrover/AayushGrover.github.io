@@ -102,8 +102,8 @@ author:
   bio              : "Integrated master student at International Institute of Information Technology Bangalore, Data Science, Python, Biology, and Football"
   location         : "Bangalore, India"
   linkedin         : "https://www.linkedin.com/in/aayush-g-000113117/"
-  researchgate     : "https://www.researchgate.net/profile/Aayush_Grover"
-  orcid            : "https://orcid.org/0000-0002-3716-2850"
+#   researchgate     : "https://www.researchgate.net/profile/Aayush_Grover"
+#   orcid            : "https://orcid.org/0000-0002-3716-2850"
   
   links:
     - label: "Email"
@@ -117,13 +117,13 @@ author:
       url: "https://twitter.com/AayushGrover8"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-#       url: "https://www.facebook.com/aayush.grover.71"
+      url: "https://www.facebook.com/aayush.grover.71"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AayushGrover"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-#       url: "https://www.instagram.com/aayush__grover/"
+      url: "https://www.instagram.com/aayush__grover/"
 
 # Site Footer
 footer:
