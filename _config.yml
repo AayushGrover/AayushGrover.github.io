@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Aayush Grover"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Aayush Grover"
+name                     : "About"
 description              : "Aayush's personal website."
 url                      : https://aayushgrover.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
