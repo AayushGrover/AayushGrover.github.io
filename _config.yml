@@ -101,7 +101,7 @@ author:
   avatar           : "/assets/Profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Integrated master student at International Institute of Information Technology Bangalore ,Data Science, Python, Biology, and Football"
   location         : "Bangalore, India"
-#   email            : aayush[dot]grover[at]iiitb[dot]org
+  linkedin         : "https://www.linkedin.com/in/aayush-g-000113117/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
