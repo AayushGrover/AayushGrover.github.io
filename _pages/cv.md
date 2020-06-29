@@ -4,4 +4,4 @@ title: "CV"
 
 ---
 
-This site is currently being updated.
+My CV can be viewed [here](https://aayushgrover.github.io/files/CV.pdf)
