@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author: "Aayush Grover"
 modified: 2020/06/29
 comments: false
 author_profile: true
