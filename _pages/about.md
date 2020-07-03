@@ -4,7 +4,7 @@ title: "About"
 
 ---
 
-I am an integrated master student at [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/). Integrated master program is a 5-year program that offers the undergrad as well as the postgrad degree at the end of the program. I will be graduating in 2021 with a B.Tech in Computer Science Engineering and an M.Tech in Data Science. I started my undergrad in 2016 and have been a member of the [Dean's List](https://www.iiitb.ac.in/deans-list) ever since.
+I am an integrated master student at [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/). Integrated master program is a 5-year program that confers undergrad and postgrad degrees at the end of the program. I will be graduating in 2021 with a B.Tech in Computer Science Engineering and an M.Tech in Data Science. I started my undergrad in 2016 and have been a member of the [Dean's List](https://www.iiitb.ac.in/deans-list) ever since.
 
 I am a research student with focus on solving the problems of molecular biology - drug discovery, proteomics, genomics etc using machine learning and deep learning techniques. I also like to keep a special eye on making sure that the technologies used in doing any kind of analysis are explainable. Neural networks and artificial intelligence hold a lot of promise. They have even delivered state-of-art performances in so many fields of research. I wish to bring such success to the field of molecular biology. 
 
