@@ -24,7 +24,7 @@ description              : "Aayush's personal website."
 url                      : https://aayushgrover.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : AayushGrover/AayushGrover.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/WordCloud.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -102,6 +102,8 @@ author:
   bio              : "Integrated master student at International Institute of Information Technology Bangalore, Data Science, Python, Biology, and Football"
   location         : "Bangalore, India"
   linkedin         : "https://www.linkedin.com/in/aayush-g-000113117/"
+#   researchgate     : "https://www.researchgate.net/profile/Aayush_Grover"
+#   orcid            : "https://orcid.org/0000-0002-3716-2850"
   
   links:
     - label: "Email"
@@ -134,7 +136,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://aayushgrover.github.io/"
+      url: "https://github.com/AayushGrover"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
