@@ -12,4 +12,4 @@ Gopalakrishnan Venkatesh, **Aayush Grover**, G. Srinivasaraghavan, Shrisha Rao
 
 *Proceedings of ISMB-2020, OUP Bioinformatics.*
 
-[[paper](https://doi.org/10.1093/bioinformatics/btaa479)] [[code](https://github.com/gopuvenkat/MHCAttnNet)] [[cite]()]
+[[paper](https://doi.org/10.1093/bioinformatics/btaa479)] [[code](https://github.com/gopuvenkat/MHCAttnNet)] [[cite](https://aayushgrover.github.io/files/citations-20200715T080300.bibtex)]
