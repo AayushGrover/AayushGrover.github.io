@@ -4,6 +4,8 @@ title: "Publications"
 
 ---
 
+The complete list can be found on my [google scholar](https://scholar.google.com/citations?user=klamYX8AAAAJ&hl=en&oi=sra) profile.
+
 # 2020
 
 #### MHCAttnNet: predicting MHC-peptide bindings for MHC alleles classes I and II using an attention-based deep neural model
