@@ -73,29 +73,14 @@
         </li>
       {% endif %}
 
-      {% if author.googlescholar %}
+      {% if author.linkedin %}
         <li>
-          <a href="{{ author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i><span class="label">Google Scholar</span>
+          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
           </a>
         </li>
       {% endif %}
 
-      {% if author.researchgate %}
-        <li>
-          <a href="{{ author.researchgate }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i><span class="label">ResearchGate</span>
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.orcid %}
-        <li>
-          <a href="{{ author.orcid }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i><span class="label">ORCID</span>
-          </a>
-        </li>
-      {% endif %}
 
       {% if author.twitter %}
         <li>
@@ -109,14 +94,6 @@
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
             <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i><span class="label">Facebook</span>
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
           </a>
         </li>
       {% endif %}
@@ -173,6 +150,30 @@
         <li>
           <a href="https://stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
             <i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i><span class="label">Stack Overflow</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.googlescholar %}
+        <li>
+          <a href="{{ author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i><span class="label">Google Scholar</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.researchgate %}
+        <li>
+          <a href="{{ author.researchgate }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i><span class="label">ResearchGate</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.orcid %}
+        <li>
+          <a href="{{ author.orcid }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i><span class="label">ORCID</span>
           </a>
         </li>
       {% endif %}
