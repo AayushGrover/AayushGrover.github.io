@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Aayush Grover"
-  avatar           : "/assets/Profile4.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Profile5.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ETHZ, Data Science, Python, Biology, and Football"
   location         : "Zurich, Switzerland"
   email            : "aayush.grover@inf.ethz.ch"
