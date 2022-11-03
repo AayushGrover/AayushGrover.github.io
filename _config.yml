@@ -98,10 +98,10 @@ analytics:
 # Site Author
 author:
   name             : "Aayush Grover"
-  avatar           : "/assets/Profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Integrated master student at International Institute of Information Technology Bangalore, Data Science, Python, Biology, and Football"
-  location         : "Bangalore, India"
-  email            : "aayush.grover@iiitb.ac.in"
+  avatar           : "/assets/Profile5.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "ETHZ, Data Science, Python, Biology, and Football"
+  location         : "Zurich, Switzerland"
+  email            : "aayush.grover@inf.ethz.ch"
   googlescholar    : "https://scholar.google.com/citations?user=klamYX8AAAAJ&hl=en&oi=sra"
   linkedin         : "aayush-g-000113117/"
   github           : "AayushGrover"
